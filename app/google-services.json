@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86592357735",
+    "firebase_url": "https://leadinguniversitybus.firebaseio.com",
+    "project_id": "leadinguniversitybus",
+    "storage_bucket": "leadinguniversitybus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86592357735:android:a71d9b4f56fec308",
+        "android_client_info": {
+          "package_name": "com.example.muhtamimnahid.leadinguniversitybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86592357735-q9h6tvvlbpg22472ivkjvbromq08lfd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhtamimnahid.leadinguniversitybus",
+            "certificate_hash": "3ad9ab67a71889ee7e411970f9f1e03d3c67c275"
+          }
+        },
+        {
+          "client_id": "86592357735-029nffee91mlua1kumd9o3fc48uk9ho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrgiNcuDbMOgGVR-6a_tQ4fsp7YHhsA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86592357735-029nffee91mlua1kumd9o3fc48uk9ho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
